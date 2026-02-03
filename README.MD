@@ -4,6 +4,8 @@
 - Contact: [LibPypil@gmail.com](mailto:elcorreoquequieres@correo.com) 
 - GitHub: [Pypil](https://github.com/LibPypil/PyPil?)
 
+[imported group project]
+
 ## Data Structure:
 * ### Polynomials:
   - A polynomial can be represented as an array, where every index is the degree of the monomial:
