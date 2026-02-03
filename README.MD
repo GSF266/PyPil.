@@ -4,7 +4,7 @@
 - Contact: [LibPypil@gmail.com](mailto:elcorreoquequieres@correo.com) 
 - GitHub: [Pypil](https://github.com/LibPypil/PyPil?)
 
-[imported group project]
+- imported group project
 
 ## Data Structure:
 * ### Polynomials:
